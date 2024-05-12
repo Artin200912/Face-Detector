@@ -37,7 +37,7 @@ This project showcases the development of a face detection model using TensorFlo
 
 To train the face detection model, follow the instructions provided in the YouTube tutorial linked below. This tutorial will guide you through the entire process, from setting up your environment to training and evaluating your model.
 
-[YouTube Tutorial Link](https://www.youtube.com/watch?v=your-tutorial-id)
+[YouTube Tutorial Link](https://youtu.be/y8BLi5rfwgk?si=7BE1SUxRCQulhl4E)
 
 ## Contributing
 
