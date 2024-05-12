@@ -1,0 +1,7 @@
+opencv-python
+tensorflow
+matplotlib
+albumentation
+shutil
+numpy as np
+     
